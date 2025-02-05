@@ -25,8 +25,8 @@
 
    5. Clone Repo and install required packages
       ```
-      git clone https://github.com/salmanytofficial/XLICON-MD
-      cd XLICON-MD
+      git clone https://github.com/Nimeshamadhushan/THARU-MD-V4
+      cd THARU-MD-V4
       yarn install --network-concurrency 1
       ```
 
@@ -41,11 +41,11 @@
       OWNER_NUMBER="92xxxxxxxxxx"
       MONGODB_URI="mongodb+srv://*************"
       SESSION_ID = "Put Session Id Here"
-      THUMB_IMAGE = "https://telegra.ph/file/8f6f537cc4103b48f3783.jpg"
+      THUMB_IMAGE = "https://files.catbox.moe/rnjlel.jpg"
       port = 5000
       email = "xxxxxxxxxxxxx@gmail.com"
       global_url = "www.instagram.com/itz_shaikho/_"
-      OWNER_NAME = "SALMAN"
+      OWNER_NAME = "NIMA_CODE"
       AUTO_REACTION = false
       FAKE_COUNTRY_CODE = 354
       READ_MESSAGE = false
@@ -57,7 +57,7 @@
       WELCOME_MESSAGE =  "*Hi,* @user \n*Welcome in* @gname \n*Member count* : @count th"
       THEME= GOJO
       WORKTYPE = public
-      PACK_INFO = "XLICON MD;WA BOT"
+      PACK_INFO = "THARU MD;WA BOT"
       ANTILINK_VALUES = "chat.whatsapp.com"
       
       ```
