@@ -227,7 +227,7 @@ Choose your repo
 </p>
 
 <p align="center" >
-    <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/https://github.com/salmanytofficial/XLICON-MD&branch=main&build_command=npm%20i&run_command=npm%20start&env[SESSION_ID]&env[OWNER_NUMBER]&env[MONGODB_URI]&&env[OWNER_NAME]&env[PREFIX]=.&env[THUMB_IMAGE]=https://telegra.ph/file/3c341828d86ee7a89c73f.jpg&env[email]=infiniteytff@gmail.com&env[global_url]=instagram.com/sla.sher_&env[FAKE_COUNTRY_CODE]=974&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[ANTI_BAD_WORD]=fuck&env[WORKTYPE]=public&env[THEME]=GOJO&env[PACK_INFO]=XLICON;MD&name=xliconuser000&env[KOYEB_NAME]=profilecorruptederror&env[ANTILINK_VALUES]=chat.whatsapp.com&env[PORT]=8000">
+    <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/https://github.com/Nimeshamadhushan/THARU-MD-V4&branch=main&build_command=npm%20i&run_command=npm%20start&env[SESSION_ID]&env[OWNER_NUMBER]&env[MONGODB_URI]&&env[OWNER_NAME]&env[PREFIX]=.&env[THUMB_IMAGE]=https://telegra.ph/file/3c341828d86ee7a89c73f.jpg&env[email]=infiniteytff@gmail.com&env[global_url]=instagram.com/sla.sher_&env[FAKE_COUNTRY_CODE]=974&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[ANTI_BAD_WORD]=fuck&env[WORKTYPE]=public&env[THEME]=GOJO&env[PACK_INFO]=XLICON;MD&name=xliconuser000&env[KOYEB_NAME]=profilecorruptederror&env[ANTILINK_VALUES]=chat.whatsapp.com&env[PORT]=8000">
     <img src="https://www.koyeb.com/static/images/deploy/button.svg" width="170px" alt="Deploy on Koyeb" >
     </a>
 
@@ -347,29 +347,14 @@ Choose your repo
 
 <div align="center">
   
-| [![𝚂𝚊𝚕𝚖𝚊𝚗𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕](https://github.com/salmanytofficial.png?lenght=50width=50)](https://github.com/salmanytofficial)|
+| [![NIMA CODER](https://files.catbox.moe/rnjlel.jpg?lenght=50width=50)](https://github.com/nimesha206https://github.com/nimesha206)|
 |----|
-| [ 𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿 ](https://github.com/salmanytofficial) |
+| [ NIMA CODER ](https://files.catbox.moe/rnjlel.jpg) |
 |  Owner, Developer, Bug Fixer, Maintainer, updates |
 
 <br>
   
-| [![SlasherOfficial](https://github.com/Maher-Zubair.png?lenght=50width=50)](https://github.com/Maher-Zubair) |
-|----|
-| [ 𝙈𝘼𝙃𝙀𝙍 𝙕𝙐𝘽𝘼𝙄𝙍 ](https://github.com/Maher-Zubair) |
-|  Co.Owner , Bug Fixer, |
 
-  </div>
-  
-   ## 
-| [![Xcelsama](https://github.com/Xcelsama.png?lenght=50width=50)](https://github.com/Xcelsama) |
-|----|
-| [ 乂匚乇ㄥ丂卂爪卂](https://github.com/Xcelsama) |
-|  Co.Owner , Bug Fixer,Tester
-
-  ## `Support`
-
-For support, email [ xheikhsalman4422@gmail.com ] or join our whatsapp group.
 
 
 <p align="center">
