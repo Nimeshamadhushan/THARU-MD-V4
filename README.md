@@ -1,19 +1,19 @@
-## `XLICON-MD`
+## `THARU-MD`
 <div align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines=Its XLICON-MD;Multi+Device+Whatsapp+Bot;Developed+By+SALMAN AHMAD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines=I AM THARU-MD;Multi+Device+Whatsapp+Bot;Developed+By+NIMA CODER" alt="Typing SVG" /></a>
   
   
 <p align="center">
   <a href="">
-    <img alt=Support height="300" src="https://i.imgur.com/tQQyQwp.jpeg"> 
+    <img alt=Support height="300" src="https://files.catbox.moe/rnjlel.jpg"> 
     </p>
-    <h1 align="center">XLICON-1.O<br></h1>
+    <h1 align="center">THARU-MD-V4<br></h1>
     
    </a>
 </p>
   
 <p align="center">
-<a href="https://github.com/salmanytofficial"><img title="Author" src="https://img.shields.io/badge/XLICON-BOT-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/salmanytofficial"><img style=for-the-badge&logo=whatsapp"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/salmanytofficial?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/salmanytofficial?label=Followers&style=social"></a>
