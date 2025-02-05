@@ -1,19 +1,19 @@
 { 
-  "name": "XLICON MD",
+  "name": "THARU MD",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
-  "logo": "https://telegra.ph/file/3c341828d86ee7a89c73f.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "Xlicon Bot", "Xlicon","Xlicon MD","theme bot","multi device","baileys"],
+  "logo": "https://files.catbox.moe/rnjlel.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "Tharu Bot", "Tharu","Tharu MD","theme bot","multi device","baileys"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "BOT OWNER NAME",
-      "value":"Salman Ahmad"
+      "value":"NIMA CODER"
   },
   "ALIVE_MESSAGE": {
     "description": " SET YOUR ALIVE MESSAGE FOR THE BOT",
      "required" :false, 
-     "value": "•.•:•.•:•:•:•:•:•:•:•☾☼☽•:•.•:•.•:•:•:•:•:•:•\nι αм σηℓιηє нσω ¢αη ι нєℓρ уσυ \n•.•:•.•:•:•:•:•:•:•:•☾☼☽•:•.•:•.•:•:•:•:•:•:•\n\n*ι αм ᴍυℓтι ԃєνιᴄє ω* \n*Cʀєαтєԃ вყ : ,ʂαʅɱαɳ αԋɱαԃ*\n\n𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 : wa.me/+923184070915\n 𝙵𝙾𝙻𝙻𝙾𝚆: https://whatsapp.com/channel/0029Va9wmuz8F2pGIURwmo0m" 
+     "value": "•.•:•.•:•:•:•:•:•:•:•☾☼☽•:•.•:•.•:•:•:•:•:•:•\nι αм THARU MD нσω ¢αη ι нєℓρ уσυ \n•.•:•.•:•:•:•:•:•:•:•☾☼☽•:•.•:•.•:•:•:•:•:•:•\n\n*ι αм ᴍυℓтι ԃєνιᴄє ω* \n*Cʀєαтєԃ вყ : ,NIMA CODER*\n\n𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 : wa.me/+94789549564\n 𝙵𝙾𝙻𝙻𝙾𝚆: https://chat.whatsapp.com/J085BIRq2F614d44rWS4Co" 
  },
     "AUTO_STATUS_SAVER": {
       "description": "Automatically saves status of every person and sends in log number.put true or false",
@@ -35,7 +35,7 @@
     },
    "THUMB_IMAGE": {
     "description": "THUMBNAIL for bot.",
-     "value": "https://telegra.ph/file/3c341828d86ee7a89c73f.jpg"
+     "value": "https://files.catbox.moe/rnjlel.jpg"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -75,7 +75,7 @@
        "value": "Put Owner Number here"
   },
    "SESSION_ID": {
-    "description": "Please put your Session ID that u scanned from the bot.... If u haven't scanned go to XLICON-MD Github Repo U can find the Scanner Option"
+    "description": "Please put your Session ID that u scanned from the bot.... If u haven't scanned go to THARU-MD Github Repo U can find the Scanner Option"
   },
     "OPENAI_API_KEY": {
     "description": "Please put your OPENAI api key here.Get it from beta.openai.com(optional if u don't wan't then don't put it ",
@@ -88,8 +88,8 @@
     "required" :true
   },
     "THEME": {
-    "description": "Put the theme name you want to use. Avilable themes are XLICON,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..",
-     "value": "XLICON"
+    "description": "Put the theme name you want to use. Avilable themes are THARU,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..",
+     "value": "THARU"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
@@ -102,12 +102,12 @@
   },
   "PACK_AUTHER": {
     "description": "PUT STICKER AUTHOR NAME",
-    "value": "Xlicon",
+    "value": "Tharu",
     "required" :true
   },
   "PACK_NAME": {
     "description": "PUT STICKER PACK NAME",
-    "value": "XLICON",
+    "value": "THARU",
     "required" :true
   },
   "heroku": {
@@ -128,3 +128,4 @@
 		}
 	]
 }
+
