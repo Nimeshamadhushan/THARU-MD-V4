@@ -37,13 +37,6 @@ This Bot Is `No More Working` Fine And Have Many `Errors` (like **Mongodb Error*
 Don't Deploy This Bot...
 <br>
 
-You Guyz Can Try My Other Bots Like ***XLICON-V2*** & ***XLICON-V3*** Which Have Many `Advance Features` Then This Bot
-<br>
-
-[*XLICON-V2*](https://github.com/salmanytofficial/XLICON-V2-MD)
-<br>
-[*XLICON-V3*](https://github.com/salmanytofficial/XLICON-V3-MD)
-<br>
 
 ---
 ## 🛠️ `Installation Procedure`
