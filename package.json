@@ -1,15 +1,15 @@
 {
-  "name": "XLICON-MD",
+  "name": "THARU-MD",
   "version": "0.0.7",
-  "description": "Multi device whatsapp bot by TEAM-X.",
+  "description": "Multi device whatsapp bot by NIMA CODER.",
   "main": "lib/client.js",
   "type": "commonjs",
   "license": "GPL-3.0",
   "scripts": {
-    "start": "pm2 start lib/client.js --deep-monitoring --attach --name XLICON",
-    "stop": "pm2 stop XLICON"
+    "start": "pm2 start lib/client.js --deep-monitoring --attach --name THARU",
+    "stop": "pm2 stop THARU"
   },
-  "author": "salmanytofficial",
+  "author": "NIMA_CODER",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
     "@hapi/boom": "^9.1.4",
@@ -74,10 +74,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/salmanytofficial/XLICON-MD.git"
+    "url": "git+https://github.com/Nimeshamadhushan/THARU-MD-V4.git"
   },
   "bugs": {
-    "url": "https://github.com/salmanytofficial/XLICON-MD/issues"
+    "url": "https://github.com/Nimeshamadhushan/THARU-MD-V4/issues"
   },
-  "homepage": "https://github.com/salmanytofficial/XLICON-MD#readme"
+  "homepage": "https://github.com/Nimeshamadhushan/THARU-MD-V4#readme"
 }
