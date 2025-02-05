@@ -115,10 +115,10 @@ After this fill the vars by your own information and paste this JSON to your Rep
 {
   "SESSION_ID": "ID-Here",
   "OWNER_NUMBER": "92xxxxxxxxxx",
-  "OWNER_NAME": "SalmanAhmad",
+  "OWNER_NAME": "NIMA CODER",
   "OPENAI_API_KEY": "null",
   "MONGODB_URI": "required",
-  "PACK_INFO": "WABOT;Xlicon",
+  "PACK_INFO": "WABOT;THARU-MD",
   "PREFIX": "."
    
 }
@@ -161,7 +161,7 @@ Choose your repo
 </h4>
 
 <p align="center" >
-    <a href="https://repl.it/github/salmanytofficial/XLICON-MD">
+    <a href="https://repl.it/github/Nimeshamadhushan/THARU-MD-V4">
     <img src="https://repl.it/badge/github/quiec/whatsasena" width="170px" alt="Deploy on REPLIT" >
     </a>
 </p>
@@ -204,7 +204,7 @@ Choose your repo
 </p>
 
 <p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/salmanytofficial/XLICON-MD">
+    <a href="https://heroku.com/deploy?template=https://github.com/Nimeshamadhushan/THARU-MD-V4">
     <img src="https://www.herokucdn.com/deploy/button.png" width="170px" alt="Deploy on Heroku" >
     </a>
 
